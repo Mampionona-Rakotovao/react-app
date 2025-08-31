@@ -8,7 +8,7 @@ function App() {
     //la composante Welcome est appelée ici
     <>
      <Car/>
-     <Welcome/>
+     {/* <Welcome/> */}
     </>
   );
 }
