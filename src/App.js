@@ -7,7 +7,7 @@ function App() {
   return (
     //la composante Welcome est appelée ici
     <>
-     <Car/>
+     <Car brande="BMWW"/>
      {/* <Welcome/> */}
     </>
   );
